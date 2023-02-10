@@ -1,15 +1,15 @@
 [![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)](https://bhumikabiyani.io)
 <h1 align="center">Hi 👋, I'm Bhumika Biyani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://techforceglobal.com/wp-content/uploads/2022/07/3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikabiyani&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikabiyani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Web-D**
+- 💬 Ask me about **HTML, CSS, Java, DSA, Roadmap to learn ML**
 
 - 📫 How to reach me **biyanibhumika121@gmail.com**
 
