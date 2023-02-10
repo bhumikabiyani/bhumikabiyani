@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=900)](https://bhumikabiyani.io)
+[![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)](https://bhumikabiyani.io)
 <h1 align="center">Hi 👋, I'm Bhumika Biyani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif">
+<img align="right" alt="Coding" width="400" src="https://techforceglobal.com/wp-content/uploads/2022/07/3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikabiyani&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikabiyani" /> </p>
 
