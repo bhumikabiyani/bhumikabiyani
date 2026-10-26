@@ -4,8 +4,8 @@
 
   <br/><br/>
 
-  <a href="https://github.com/bhumikabiyani">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Bhumika+Biyani+%E2%9A%A1;Software+Engineer+(Mobile+%C2%B7+Backend+%C2%B7+AI);Building+Production+React+Native+%26+Expo+Apps;Engineering+Resilient+Go+%26+Node.js+Backends;Architecting+LLM+Agents+%26+Voice+Pipelines" alt="Typing SVG" />
+  <a href="https://bhumika-biyani.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Bhumika+Biyani+%E2%9A%A1;Technical+Solutions+Engineer+(Expo+%C2%B7+Mobile);Building+Production+React+Native+%26+Expo+Apps;Engineering+Resilient+Go+%26+Node.js+Backends;Architecting+LLM+Agents+%26+Voice+Pipelines" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -13,6 +13,7 @@
   </p>
 
   <p align="center">
+    <a href="https://bhumika-biyani.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-050608?style=for-the-badge&logo=vercel&logoColor=38BDF8&borderColor=38BDF8" alt="Live Portfolio" /></a>
     <a href="https://linkedin.com/in/biyanibhumika121" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=38BDF8&borderColor=38BDF8" alt="LinkedIn" /></a>
     <a href="https://dsa-interviewer-bot.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/AlgoMentor_Live-050608?style=for-the-badge&logo=vercel&logoColor=FF2A5F&borderColor=FF2A5F" alt="AlgoMentor Live" /></a>
     <a href="mailto:biyanibhumika121@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=38BDF8&borderColor=38BDF8" alt="Email" /></a>
@@ -26,7 +27,7 @@
 ### ⚡ Snapshot & Systems Focus
 
 ```yaml
-Current Role: Software Engineer @ Emergent
+Current Role: Technical Solutions Engineer - Expo @ Emergent
 Past Experience: Software Engineer @ Hella Infra Market
 Core Disciplines: Production Mobile (React Native / Expo), Backend Architecture (Go / Node.js), Applied AI
 Location: Bengaluru, India
@@ -131,7 +132,7 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 
 > 🎮 **Realtime In-Browser Arcade**: I engineered a retro Snake Game with global persistent leaderboards (backed by serverless Upstash Redis) and an interactive AI Assistant right inside my personal developer portfolio.
 >
-> 👉 [**Play Snake & Challenge My High Score on My Live Portfolio ↗**](https://bhumikabiyani.github.io/new-portfolio)
+> 👉 [**Play Snake & Challenge My High Score on My Live Portfolio ↗**](https://bhumika-biyani.vercel.app/)
 
 ---
 
@@ -157,11 +158,8 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <a href="https://github.com/bhumikabiyani">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumikabiyani/bhumikabiyani/main/github_stats_card.svg">
-      <img alt="Bhumika Biyani's System Specs & GitHub Stats" src="https://raw.githubusercontent.com/bhumikabiyani/bhumikabiyani/main/github_stats_card.svg" width="98%">
-    </picture>
+  <a href="https://bhumika-biyani.vercel.app/">
+    <img alt="Bhumika Biyani's System Specs & GitHub Stats" src="github_stats_card.svg" width="98%">
   </a>
 
   <br/><br/>

@@ -1,4 +1,3 @@
-# .github/workflows/snake.yml in your 'bhumikabiyani/bhumikabiyani' repository
 name: Generate Snake
 
 on:
@@ -9,12 +8,15 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Courier New', monospace" width="985px" height="540px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="100%" height="520" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="13px">
 <style>
   .border { stroke: #1e293b; stroke-width: 1.5; }
-  .ascii-screen { fill: #38bdf8; }
-  .ascii-frame { fill: #64748b; }
+  .ascii-screen { fill: #38bdf8; font-weight: bold; }
+  .ascii-frame { fill: #475569; }
   .ascii-code { fill: #f1f5f9; }
   .ascii-comment { fill: #ff2a5f; }
   .user-header { fill: #f1f5f9; font-weight: bold; }
@@ -11,61 +11,62 @@
   .bullet { fill: #38bdf8; }
   .key { fill: #ff9e3b; }
   .dots { fill: #334155; }
-  .val { fill: #e2e8f0; }
-  .val-hl { fill: #38bdf8; }
-  .stat-hl { fill: #ff2a5f; font-weight: bold; }
+  .val { fill: #cbd5e1; }
+  .val-hl { fill: #38bdf8; font-weight: bold; }
+  .val-accent { fill: #ff2a5f; font-weight: bold; }
   text, tspan { white-space: pre; }
 </style>
-<rect width="985px" height="540px" fill="#050608" rx="14" class="border"/>
+<rect width="960" height="520" fill="#050608" rx="14" class="border"/>
 
 <!-- LEFT COLUMN: ASCII MONITOR -->
-<text x="24" y="34" class="ascii-frame">
-<tspan x="24" y="34"> /--------------------------------\</tspan>
-<tspan x="24" y="55">|                                  |</tspan>
-<tspan x="24" y="76">|  <tspan class="ascii-screen">&gt;_ mobile_kernel.ts</tspan>             |</tspan>
-<tspan x="24" y="97">|                                  |</tspan>
-<tspan x="24" y="118">|  <tspan class="ascii-code">import { Kernel } from 'expo'</tspan>   |</tspan>
-<tspan x="24" y="139">|  <tspan class="ascii-code">import { BFF } from '@/gateway'</tspan>   |</tspan>
-<tspan x="24" y="160">|                                  |</tspan>
-<tspan x="24" y="181">|  <tspan class="ascii-code">const app = new Kernel({</tspan>         |</tspan>
-<tspan x="24" y="202">|    <tspan class="ascii-code">runtime: "HermesEngine",</tspan>      |</tspan>
-<tspan x="24" y="223">|    <tspan class="ascii-code">gateway: BFF.aggregate(),</tspan>      |</tspan>
-<tspan x="24" y="244">|    <tspan class="ascii-code">ai: "GroqLlama3.3 + Voice",</tspan>   |</tspan>
-<tspan x="24" y="265">|  <tspan class="ascii-code">});</tspan>                             |</tspan>
-<tspan x="24" y="286">|  <tspan class="ascii-comment">await app.deploy({ scale: true })</tspan> |</tspan>
-<tspan x="24" y="307">|                                  |</tspan>
-<tspan x="24" y="328"> \--------------------------------/</tspan>
-<tspan x="24" y="349">              |   |</tspan>
-<tspan x="24" y="370">           ___|___|___</tspan>
-<tspan x="24" y="391">          /           \</tspan>
-<tspan x="24" y="412">         /_____________\</tspan>
+<text x="20" y="32" class="ascii-frame">
+<tspan x="20" y="32"> /--------------------------------\</tspan>
+<tspan x="20" y="52">|                                  |</tspan>
+<tspan x="20" y="72">|  <tspan class="ascii-screen">&gt;_ expo_kernel.ts</tspan>              |</tspan>
+<tspan x="20" y="92">|                                  |</tspan>
+<tspan x="20" y="112">|  <tspan class="ascii-code">import { Expo } from 'expo'</tspan>       |</tspan>
+<tspan x="20" y="132">|  <tspan class="ascii-code">import { BFF } from '@/gateway'</tspan>   |</tspan>
+<tspan x="20" y="152">|                                  |</tspan>
+<tspan x="20" y="172">|  <tspan class="ascii-comment"># Tech Solutions Eng (Expo)</tspan>     |</tspan>
+<tspan x="20" y="192">|  <tspan class="ascii-comment"># Emergent · Mobile &amp; AI</tspan>       |</tspan>
+<tspan x="20" y="212">|                                  |</tspan>
+<tspan x="20" y="232">|  <tspan class="ascii-code">const app = new Expo({</tspan>          |</tspan>
+<tspan x="20" y="252">|    <tspan class="ascii-code">runtime: "HermesEngine",</tspan>      |</tspan>
+<tspan x="20" y="272">|    <tspan class="ascii-code">ai: "GroqLlama3.3 + Voice",</tspan>   |</tspan>
+<tspan x="20" y="292">|  <tspan class="ascii-code">});</tspan>                             |</tspan>
+<tspan x="20" y="312">|  <tspan class="ascii-code">await app.deploy({ scale: true })</tspan> |</tspan>
+<tspan x="20" y="332"> \--------------------------------/</tspan>
+<tspan x="20" y="352">              |   |</tspan>
+<tspan x="20" y="372">           ___|___|___</tspan>
+<tspan x="20" y="392">          /           \</tspan>
+<tspan x="20" y="412">         /_____________\</tspan>
 </text>
 
 <!-- RIGHT COLUMN: NEOFETCH SYSTEM SPECS -->
-<text x="350" y="34">
-<tspan x="350" y="34"><tspan class="user-header">bhumika@github</tspan> <tspan class="divider">----------------------------------------------------</tspan></tspan>
-<tspan x="350" y="55"><tspan class="bullet">.</tspan> <tspan class="key">OS</tspan><tspan class="dots">: .......................................</tspan> <tspan class="val">macOS Sequoia, Linux</tspan></tspan>
-<tspan x="350" y="76"><tspan class="bullet">.</tspan> <tspan class="key">Role</tspan><tspan class="dots">: .....................................</tspan> <tspan class="val">Software Engineer (Mobile &amp; Backend)</tspan></tspan>
-<tspan x="350" y="97"><tspan class="bullet">.</tspan> <tspan class="key">Current</tspan><tspan class="dots">: ..................................</tspan> <tspan class="val-hl">Software Engineer @ Emergent</tspan></tspan>
-<tspan x="350" y="118"><tspan class="bullet">.</tspan> <tspan class="key">Past</tspan><tspan class="dots">: .....................................</tspan> <tspan class="val">Software Engineer @ Hella Infra Market</tspan></tspan>
-<tspan x="350" y="139"><tspan class="bullet">.</tspan> <tspan class="key">Host</tspan><tspan class="dots">: .....................................</tspan> <tspan class="val">Apple Silicon (MacBook)</tspan></tspan>
-<tspan x="350" y="160"><tspan class="bullet">.</tspan> <tspan class="key">IDE</tspan><tspan class="dots">: ......................................</tspan> <tspan class="val">VSCode, Cursor, Android Studio, Xcode</tspan></tspan>
-<tspan x="350" y="181"><tspan class="bullet">.</tspan></tspan>
-<tspan x="350" y="202"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Programming</tspan><tspan class="dots">: ....................</tspan> <tspan class="val">TypeScript, Go, JavaScript, Python</tspan></tspan>
-<tspan x="350" y="223"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Mobile&amp;Web</tspan><tspan class="dots">: .....................</tspan> <tspan class="val">React Native, Expo, React, Next.js</tspan></tspan>
-<tspan x="350" y="244"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Data&amp;Infra</tspan><tspan class="dots">: .....................</tspan> <tspan class="val">PostgreSQL, Redis, Docker, AWS, Git</tspan></tspan>
-<tspan x="350" y="265"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Real</tspan><tspan class="dots">: ...........................</tspan> <tspan class="val">English, Hindi</tspan></tspan>
-<tspan x="350" y="286"><tspan class="bullet">.</tspan></tspan>
-<tspan x="350" y="307"><tspan class="bullet">.</tspan> <tspan class="key">Hobbies.Software</tspan><tspan class="dots">: ...</tspan> <tspan class="val">Mobile Systems, AI Agents, Algorithmic Problem Solving</tspan></tspan>
-<tspan x="350" y="328"><tspan class="bullet">.</tspan> <tspan class="key">Hobbies.Interests</tspan><tspan class="dots">: .........</tspan> <tspan class="val">Zero-Slop UI, Systems Design, Developer Tooling</tspan></tspan>
-<tspan x="350" y="349"><tspan class="divider">-</tspan> <tspan class="section-hdr">Contact</tspan> <tspan class="divider">-----------------------------------------------------------</tspan></tspan>
-<tspan x="350" y="370"><tspan class="bullet">.</tspan> <tspan class="key">Email.Personal</tspan><tspan class="dots">: ...........................</tspan> <tspan class="val-hl">biyanibhumika121@gmail.com</tspan></tspan>
-<tspan x="350" y="391"><tspan class="bullet">.</tspan> <tspan class="key">LinkedIn</tspan><tspan class="dots">: .................................</tspan> <tspan class="val">in/biyanibhumika121</tspan></tspan>
-<tspan x="350" y="412"><tspan class="bullet">.</tspan> <tspan class="key">GitHub</tspan><tspan class="dots">: ...................................</tspan> <tspan class="val">github.com/bhumikabiyani</tspan></tspan>
-<tspan x="350" y="433"><tspan class="bullet">.</tspan> <tspan class="key">Live App</tspan><tspan class="dots">: .................................</tspan> <tspan class="val">dsa-interviewer-bot.vercel.app</tspan></tspan>
-<tspan x="350" y="454"><tspan class="divider">-</tspan> <tspan class="section-hdr">Engineering Focus</tspan> <tspan class="divider">--------------------------------------------------</tspan></tspan>
-<tspan x="350" y="475"><tspan class="bullet">.</tspan> <tspan class="key">Mobile Architecture</tspan><tspan class="dots">: .....................</tspan> <tspan class="val">Cross-Platform, Hermes Engine, 16KB Page</tspan></tspan>
-<tspan x="350" y="496"><tspan class="bullet">.</tspan> <tspan class="key">Backend Aggregation</tspan><tspan class="dots">: .....................</tspan> <tspan class="val">BFF Gateways (-30% latency), Microservices</tspan></tspan>
-<tspan x="350" y="517"><tspan class="bullet">.</tspan> <tspan class="key">Applied AI Systems</tspan><tspan class="dots">: ......................</tspan> <tspan class="val-hl">Llama 3.3 70B, Voice Polly TTS, AI App Debugging</tspan></tspan>
+<text x="310" y="32">
+<tspan x="310" y="32"><tspan class="user-header">bhumika@github</tspan> <tspan class="divider">----------------------------------------------------</tspan></tspan>
+<tspan x="310" y="52"><tspan class="bullet">.</tspan> <tspan class="key">OS</tspan><tspan class="dots">: ......................</tspan> <tspan class="val">macOS Sequoia, Linux</tspan></tspan>
+<tspan x="310" y="72"><tspan class="bullet">.</tspan> <tspan class="key">Role</tspan><tspan class="dots">: ....................</tspan> <tspan class="val">Technical Solutions Engineer - Expo</tspan></tspan>
+<tspan x="310" y="92"><tspan class="bullet">.</tspan> <tspan class="key">Current</tspan><tspan class="dots">: .................</tspan> <tspan class="val-hl">Technical Solutions Eng (Expo) @ Emergent</tspan></tspan>
+<tspan x="310" y="112"><tspan class="bullet">.</tspan> <tspan class="key">Past</tspan><tspan class="dots">: ....................</tspan> <tspan class="val">Software Engineer @ Hella Infra Market</tspan></tspan>
+<tspan x="310" y="132"><tspan class="bullet">.</tspan> <tspan class="key">Host</tspan><tspan class="dots">: ....................</tspan> <tspan class="val">Apple Silicon (MacBook)</tspan></tspan>
+<tspan x="310" y="152"><tspan class="bullet">.</tspan> <tspan class="key">IDE</tspan><tspan class="dots">: .....................</tspan> <tspan class="val">VSCode, Cursor, Android Studio, Xcode</tspan></tspan>
+<tspan x="310" y="172"><tspan class="bullet">.</tspan></tspan>
+<tspan x="310" y="192"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Code</tspan><tspan class="dots">: ..........</tspan> <tspan class="val">TypeScript, Go, JavaScript, Python</tspan></tspan>
+<tspan x="310" y="212"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Mobile</tspan><tspan class="dots">: ........</tspan> <tspan class="val">React Native, Expo, Hermes, iOS, Android</tspan></tspan>
+<tspan x="310" y="232"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Backend</tspan><tspan class="dots">: .......</tspan> <tspan class="val">Node.js, Express, Go, FastAPI, BFF</tspan></tspan>
+<tspan x="310" y="252"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Data</tspan><tspan class="dots">: ..........</tspan> <tspan class="val">PostgreSQL, Redis, AWS (Polly, S3), Docker</tspan></tspan>
+<tspan x="310" y="272"><tspan class="bullet">.</tspan> <tspan class="key">Languages.Real</tspan><tspan class="dots">: ..........</tspan> <tspan class="val">English, Hindi</tspan></tspan>
+<tspan x="310" y="292"><tspan class="bullet">.</tspan></tspan>
+<tspan x="310" y="312"><tspan class="bullet">.</tspan> <tspan class="key">Focus.Mobile</tspan><tspan class="dots">: ............</tspan> <tspan class="val">Expo Modules, Native Bridge, 16KB Page Size</tspan></tspan>
+<tspan x="310" y="332"><tspan class="bullet">.</tspan> <tspan class="key">Focus.Backend</tspan><tspan class="dots">: ...........</tspan> <tspan class="val">BFF Gateways (-30% Latency), Microservices</tspan></tspan>
+<tspan x="310" y="352"><tspan class="bullet">.</tspan> <tspan class="key">Focus.AI</tspan><tspan class="dots">: ................</tspan> <tspan class="val-accent">LLM Agents, Voice Polly TTS, AI App Debugging</tspan></tspan>
+<tspan x="310" y="372"><tspan class="divider">-</tspan> <tspan class="section-hdr">Contact</tspan> <tspan class="divider">-----------------------------------------------------------</tspan></tspan>
+<tspan x="310" y="392"><tspan class="bullet">.</tspan> <tspan class="key">Email</tspan><tspan class="dots">: ...................</tspan> <tspan class="val-hl">biyanibhumika121@gmail.com</tspan></tspan>
+<tspan x="310" y="412"><tspan class="bullet">.</tspan> <tspan class="key">LinkedIn</tspan><tspan class="dots">: ................</tspan> <tspan class="val">linkedin.com/in/biyanibhumika121</tspan></tspan>
+<tspan x="310" y="432"><tspan class="bullet">.</tspan> <tspan class="key">Portfolio</tspan><tspan class="dots">: ...............</tspan> <tspan class="val-hl">bhumika-biyani.vercel.app</tspan></tspan>
+<tspan x="310" y="452"><tspan class="bullet">.</tspan> <tspan class="key">GitHub</tspan><tspan class="dots">: ..................</tspan> <tspan class="val">github.com/bhumikabiyani</tspan></tspan>
+<tspan x="310" y="472"><tspan class="divider">-</tspan> <tspan class="section-hdr">Engineering Motto</tspan> <tspan class="divider">-------------------------------------------------</tspan></tspan>
+<tspan x="310" y="492"><tspan class="bullet">.</tspan> <tspan class="key">Philosophy</tspan><tspan class="dots">: .............</tspan> <tspan class="val">High runtime reliability, sub-second latency, zero UI slop</tspan></tspan>
 </text>
 </svg>
