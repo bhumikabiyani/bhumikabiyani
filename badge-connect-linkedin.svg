@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="28" viewBox="0 0 202 28" role="img" aria-label="CONNECT ON LINKEDIN">
+  <title>CONNECT ON LINKEDIN</title>
+  <rect width="201" height="27" x="0.5" y="0.5" rx="3" fill="#050608" stroke="#38BDF8" stroke-width="1"/>
+  <g fill="#38BDF8" transform="translate(10, 7) scale(0.5833)">
+    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.763z"/>
+  </g>
+  <text x="31" y="18" fill="#FFFFFF" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold" letter-spacing="0.5">CONNECT ON LINKEDIN</text>
+</svg>

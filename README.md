@@ -14,10 +14,9 @@
 
   <p align="center">
     <a href="https://bhumika-biyani.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-050608?style=for-the-badge&logo=vercel&logoColor=38BDF8&borderColor=38BDF8" alt="Live Portfolio" /></a>
-    <a href="https://linkedin.com/in/biyanibhumika121" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=38BDF8&borderColor=38BDF8" alt="LinkedIn" /></a>
-    <a href="https://dsa-interviewer-bot.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/AlgoMentor_Live-050608?style=for-the-badge&logo=vercel&logoColor=FF2A5F&borderColor=FF2A5F" alt="AlgoMentor Live" /></a>
-    <a href="mailto:biyanibhumika121@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=38BDF8&borderColor=38BDF8" alt="Email" /></a>
+    <a href="https://linkedin.com/in/biyanibhumika121" target="_blank"><img src="https://raw.githubusercontent.com/bhumikabiyani/bhumikabiyani/main/badge-linkedin.svg" height="28" alt="LinkedIn" /></a>
     <a href="https://github.com/bhumikabiyani?tab=repositories"><img src="https://img.shields.io/badge/Repositories-050608?style=for-the-badge&logo=github&logoColor=FF2A5F&borderColor=FF2A5F" alt="Repositories" /></a>
+    <a href="mailto:biyanibhumika121@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=38BDF8&borderColor=38BDF8" alt="Email" /></a>
   </p>
 
 </div>
@@ -195,8 +194,8 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/biyanibhumika121">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=38BDF8&borderColor=38BDF8" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/biyanibhumika121" target="_blank">
+    <img src="https://raw.githubusercontent.com/bhumikabiyani/bhumikabiyani/main/badge-connect-linkedin.svg" height="28" alt="Connect on LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:biyanibhumika121@gmail.com">
