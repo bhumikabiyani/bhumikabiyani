@@ -36,27 +36,6 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 
 ---
 
-### 🏗️ 3-Tier Systems Architecture Blueprint
-
-```text
- ┌────────────────────────────────────────────────────────────────────────┐
- │                        CLIENT & EDGE LAYER                             │
- │   React Native · Expo · Hermes Engine · 16KB Page Android · iOS Bridge │
- └──────────────────────────────────┬─────────────────────────────────────┘
-                                    │ (Sub-second RPC / Event Streams)
- ┌──────────────────────────────────▼─────────────────────────────────────┐
- │                    ORCHESTRATION & BFF GATEWAY                         │
- │     Go REST APIs · Node.js/Express BFF Aggregator (-30% Latency)       │
- └──────────────────────────────────┬─────────────────────────────────────┘
-                                    │ (ACID Isolation & Neural Pipelines)
- ┌──────────────────────────────────▼─────────────────────────────────────┐
- │                     DATA & INTELLIGENCE FOUNDATION                     │
- │   PostgreSQL · Redis Cache · Groq Llama 3.3 70B · AWS Polly Voice TTS  │
- └────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ### ⚡ Production Impact & Engineering Metrics
 
 | Metric | System Component | Technical Highlight |
@@ -157,19 +136,19 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <a href="https://bhumika-biyani.vercel.app/">
+  <!-- <a href="https://bhumika-biyani.vercel.app/">
     <img alt="Bhumika Biyani's System Specs & GitHub Stats" src="github_stats_card.svg" width="98%">
-  </a>
+  </a> -->
 
-  <br/><br/>
+  <!-- <br/><br/> -->
 
   <p align="center">
     <a href="https://github.com/bhumikabiyani">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikabiyani&theme=tokyonight&hide_border=true&stroke=38BDF8&background=050608&ring=FF2A5F&fire=FF2A5F&currStreakLabel=38BDF8&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="48.5%" />
     </a>
-    <a href="https://github.com/bhumikabiyani">
+    <!-- <a href="https://github.com/bhumikabiyani">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikabiyani&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=CDD6F4&bg_color=050608" alt="Most Used Languages" width="48.5%" />
-    </a>
+    </a> -->
   </p>
 </div>
 
@@ -183,15 +162,6 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 
 ---
 
-### 💬 Let's Connect & Build
-
-```bash
-┌──(bhumika㉿github)-[~]
-└─$ ping -c 1 bhumika.engineer
-64 bytes from bhumikabiyani: icmp_seq=1 ttl=64 time=0.042 ms
-
---- Open to high-impact mobile, backend, and applied AI engineering challenges ---
-```
 
 <p align="center">
   <a href="https://linkedin.com/in/biyanibhumika121" target="_blank">
