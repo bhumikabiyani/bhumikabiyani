@@ -26,7 +26,7 @@
 ### ⚡ Snapshot & Systems Focus
 
 ```yaml
-Current Role: Technical Solutions Engineer - Expo @ Emergent
+Current Role: Engineer @ Emergent
 Past Experience: Software Engineer @ Hella Infra Market
 Core Disciplines: Production Mobile (React Native / Expo), Backend Architecture (Go / Node.js), Applied AI
 Location: Bengaluru, India
