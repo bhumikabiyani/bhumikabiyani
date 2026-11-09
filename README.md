@@ -72,7 +72,7 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
         <li>Strict relational data modeling with <strong>PostgreSQL</strong> enforcing ACID consistency under concurrent seat booking requests.</li>
       </ul>
       <p align="center">
-        <code>React Native</code> · <code>TypeScript</code> · <code>Golang</code> · <code>PostgreSQL</code> · <code>REST APIs</code>
+        <code>React Native</code> · <code>TypeScript</code> · <code>Golang</code> · <code>PostgreSQL</code> · <code>REST API</code>
       </p>
     </td>
   </tr>
