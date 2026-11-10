@@ -78,7 +78,7 @@ Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ BFF Microservices Aggregator</h3>
+      <h3 align="center">⚡ BFF(Backend For Frontend) Microservices Aggregator</h3>
       <p align="center"><strong>High-Throughput Backend-for-Frontend Gateway</strong></p>
       <ul>
         <li>Architected a dedicated BFF service aggregating <strong>8+ microservice APIs</strong> into optimized client-facing endpoints.</li>
