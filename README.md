@@ -31,7 +31,6 @@ Past Experience: Software Engineer @ Hella Infra Market
 Core Disciplines: Production Mobile (React Native / Expo), Backend Architecture (Go / Node.js), Applied AI
 Location: Bengaluru, India
 Current Focus: Debugging AI-generated architectures, native iOS/Android bridge internals, deterministic LLM pipelines
-Systems Philosophy: High runtime reliability, sub-second latency, zero UI slop
 ```
 
 ---
