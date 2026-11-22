@@ -9,7 +9,7 @@
   </a>
 
   <p align="center">
-    <strong>Building high-speed mobile apps, resilient distributed systems, and smart AI agents.</strong>
+    <strong>Building high-speed mobile apps, resilient distributed systems, and smart AI agents</strong>
   </p>
 
   <p align="center">
