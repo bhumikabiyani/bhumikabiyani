@@ -28,7 +28,7 @@
 ```yaml
 Current Role: Engineer @ Emergent
 Past Experience: Software Engineer @ Hella Infra Market
-Core Disciplines: Production Mobile (React Native / Expo), Backend Architecture (Go / Node.js), Applied AI
+Core Disciplines: Production Mobile (React Native / Expo), Backend Architecture (Go / Node.js / Python), Applied AI
 Location: Bengaluru, India
 Current Focus: Debugging AI-generated architectures, native iOS/Android bridge internals, deterministic LLM pipelines
 ```
